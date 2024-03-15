@@ -1,1 +1,1 @@
-this repo contains Python project files
+this repo contains Python project Directories
